@@ -1,8 +1,3 @@
-.______           ___           _______..______    __          .______     ______   .___________.
-|   _  \         /   \         /       ||   _  \  |  |         |   _  \   /  __  \  |           |
-|  |_)  |       /  ^  \       |   (----`|  |_)  | |  |  ______ |  |_)  | |  |  |  | `---|  |----`
-|      /       /  /_\  \       \   \    |   ___/  |  | |______||   _  <  |  |  |  |     |  |     
-|  |\  \----. /  _____  \  .----)   |   |  |      |  |         |  |_)  | |  `--'  |     |  |     
-| _| `._____|/__/     \__\ |_______/    | _|      |__|         |______/   \______/      |__|     
-                                                                                                 
-Raspberry Pi 2 | Johnny-five | Raspi-io | node
+![enter image description here](https://pbs.twimg.com/media/B-dNmJfIMAAFE7a.jpg:large)
+
+##Raspberry Pi 2 | Johnny-five | Raspi-io | node
