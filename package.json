@@ -4,6 +4,7 @@
   "description": "simple robot using gpio",
   "main": "init.js",
   "scripts": {
+    "start": "sudo node init.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -14,6 +15,6 @@
   "license": "ISC",
   "dependencies": {
     "johnny-five": "^0.8.43",
-    "raspi-io": "^2.2.1"
+    "raspi-io": "^3.0.0"
   }
 }
